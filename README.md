@@ -10,7 +10,7 @@ Is a home's sale price per square foot more closely tied to the income of its ne
 | Deliverable | Link |
 |---|---|
 | Tableau Public dashboard | https://public.tableau.com/app/profile/kevina.jepkonga/viz/RealEstateDashboard_17951864523670/Dashboard1 |
-| Slides (5 to 7 minute presentation) | [add link] |
+| Slides (5 to 7 minute presentation) | https://1drv.ms/p/c/0c4589f2251de4da/IQBiXYMr-vgbR66g-4q8fQeRAa1-hNgDPROSTNuoQKOIY7M?e=BlcVCM |
 | Article | https://medium.com/@kevinajepkonga/location-or-renovation-what-108-441-home-sales-reveal-about-king-county-real-estate-54541bcb2ad8?postPublishedType=repub |
 
 ## The question and the decision it supports
